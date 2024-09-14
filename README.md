@@ -1,4 +1,4 @@
-### Problem Set
+# Problem Set
 
 This problem set contains a variety of fundamental algorithmic challenges that will help you sharpen your problem-solving skills. Each problem involves common data structure operations, numerical computations, or string manipulations. Below is a list of 12 problems, each accompanied by a short description and an example to help you understand the task.
 
